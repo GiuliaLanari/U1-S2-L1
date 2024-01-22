@@ -22,7 +22,7 @@ let trueOFalse = false;
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
-let myName = "Giulia";
+const myName = "Giulia";
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -42,7 +42,7 @@ let x = 12;
 */
 
 /*
-let myName = "Lanari";
+const myName = "Lanari";
 console.log("lanari");
 */
 
